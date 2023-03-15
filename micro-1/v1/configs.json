@@ -1,0 +1,24 @@
+{
+  "languages": {
+    "es": {
+      "value": "es",
+      "label": "Español 🇪🇸"
+    },
+    "en": {
+      "value": "en",
+      "label": "English 🇺🇸"
+    },
+    "default": "es"
+  },
+  "movies": {
+    "m1": {
+      "id": "m1",
+      "label": "Rick 👨🏻‍🔬"
+    },
+    "m2": {
+      "id": "m2",
+      "label": "Harry 🧙🏻"
+    },
+    "default": "m1"
+  }
+}
